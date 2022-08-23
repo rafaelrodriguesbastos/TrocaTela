@@ -1,0 +1,4 @@
+#Mon Aug 22 21:40:11 BRT 2022
+base.0=/home/bastos/AndroidStudioProjects/TrocaTela/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
